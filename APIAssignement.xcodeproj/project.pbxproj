@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		83AC2C302B07B4F400CC953E /* MovieListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83AC2C2F2B07B4F400CC953E /* MovieListViewModel.swift */; };
 		83BD247E2AFE7E01003818C8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83BD247D2AFE7E01003818C8 /* AppDelegate.swift */; };
 		83BD24802AFE7E01003818C8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83BD247F2AFE7E01003818C8 /* SceneDelegate.swift */; };
 		83BD24822AFE7E02003818C8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83BD24812AFE7E02003818C8 /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		83AC2C2F2B07B4F400CC953E /* MovieListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieListViewModel.swift; sourceTree = "<group>"; };
 		83BD247A2AFE7E01003818C8 /* APIAssignement.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = APIAssignement.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		83BD247D2AFE7E01003818C8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		83BD247F2AFE7E01003818C8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				83BD24932AFE8286003818C8 /* MovieResult.swift */,
 				83BD24952AFE82C3003818C8 /* Movie.swift */,
 				83BD24972AFE832C003818C8 /* MovieListViewController.swift */,
+				83AC2C2F2B07B4F400CC953E /* MovieListViewModel.swift */,
 			);
 			path = APIAssignement;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 				83BD24822AFE7E02003818C8 /* ViewController.swift in Sources */,
 				83BD249A2AFE87BC003818C8 /* MovieCell.swift in Sources */,
 				83BD24962AFE82C3003818C8 /* Movie.swift in Sources */,
+				83AC2C302B07B4F400CC953E /* MovieListViewModel.swift in Sources */,
 				83BD247E2AFE7E01003818C8 /* AppDelegate.swift in Sources */,
 				83BD24982AFE832C003818C8 /* MovieListViewController.swift in Sources */,
 				83BD24942AFE8286003818C8 /* MovieResult.swift in Sources */,
